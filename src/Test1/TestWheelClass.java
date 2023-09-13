@@ -1,4 +1,4 @@
-package src;
+package src.Test1;
 
 public class TestWheelClass {
 
